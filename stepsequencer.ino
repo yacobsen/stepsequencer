@@ -30,8 +30,6 @@ boolean on[4] = {false, false, false, false};
 
 int tempo = 0;
 
-
-
 int currentStep = 0;
 
 unsigned long lastStepTime = 0;
